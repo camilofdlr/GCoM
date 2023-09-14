@@ -54,6 +54,13 @@ data1 = data1[c("emis","size","frame")]
 data2 = data2[c("emis","size","frame")]
 data12 = rbind(data1,data2)
 
+## 2.1.3.0 Total
+data10 = data1
+data20 = data2
+wilcox.test(data10$emis, data20$emis, paired = TRUE, alternative = "two.sided")
+median(data10$emis)-median(data20$emis)
+t.test(data10$emis, data20$emis, paired = TRUE, alternative = "two.sided")
+
 ## 2.1.3.1 Big cities
 data10 = subset(data1,size=="Big")
 data20 = subset(data2,size=="Big")
@@ -105,7 +112,7 @@ stats=data_y
 stats=cbind(stats,data_z[c("NRMSE")],data_b[c("BIAS")],data_m[c("MAPE")])
 
 ## 2.1.8 Estimate the linear relation between EDGAR and CoM by robust linear regression
-mod = rlm(EDGAR_emis ~  CoM_emis + size , data=data)
+mod = rlm(EDGAR_emis ~  CoM_emis, data=data)
 summary(mod) 
 
 
@@ -128,6 +135,13 @@ data2$frame = "EDGAR"
 data1 = data1[c("emis","size","frame")]
 data2 = data2[c("emis","size","frame")]
 data12 = rbind(data1,data2)
+
+## 3.1.3.0 Total
+data10 = data1
+data20 = data2
+wilcox.test(data10$emis, data20$emis, paired = TRUE, alternative = "two.sided")
+median(data10$emis)-median(data20$emis)
+t.test(data10$emis, data20$emis, paired = TRUE, alternative = "two.sided")
 
 ## 3.1.3.1 Big cities
 data10 = subset(data1,size=="Big")
@@ -180,7 +194,7 @@ stats=data_y
 stats=cbind(stats,data_z[c("NRMSE")],data_b[c("BIAS")],data_m[c("MAPE")])
 
 ## 3.1.8 Estimate the linear relation between EDGAR and CoM by robust linear regression
-mod = rlm(EDGAR_emis ~  CoM_emis + size , data=data)
+mod = rlm(EDGAR_emis ~  CoM_emis, data=data)
 summary(mod)
 
 ## end ##
