@@ -96,6 +96,7 @@ n = dim(data)[1]
 (mape=sum(abs(data[c("CoM_emis")]-data[c("EDGAR_emis")])/(data[c("EDGAR_emis")]))/dim(data)[1])
 
 ## By country
+xx = data[c("organisation_name","CoM_emis","EDGAR_emis","year","country","size")]
 data_y = ddply(xx, .(country), func)
 data_z = ddply(xx, .(country), func2)
 data_b = ddply(xx, .(country), func3)
@@ -178,6 +179,7 @@ n = dim(data)[1]
 (mape=sum(abs(data[c("CoM_emis")]-data[c("EDGAR_emis")])/(data[c("EDGAR_emis")]))/dim(data)[1])
 
 ## By country
+xx = data[c("organisation_name","CoM_emis","EDGAR_emis","year","country","size")]
 data_y = ddply(xx, .(country), func)
 data_z = ddply(xx, .(country), func2)
 data_b = ddply(xx, .(country), func3)
