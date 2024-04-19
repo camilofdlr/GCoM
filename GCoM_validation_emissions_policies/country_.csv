@@ -1,0 +1,253 @@
+"code","area_id","generic_name","english_name","translation_key","tooltip_translation_key","interface_flag","population","nuts_flag","created_timestamp","updated_timestamp","emission_reduction_target"
+"ad",1,"ad","Andorra","db_country_ad","db_country_ad_tooltip",True,"78264",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ae",10,"ae","United Arab Emirates","db_country_ae","db_country_ae_tooltip",True,"9400000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"af",10,"af","Afghanistan","db_country_af","db_country_af_tooltip",True,"29700000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ag",6,"ag","Antigua And Barbuda","db_country_ag","db_country_ag_tooltip",True,"86295",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ai",6,"ai","Anguilla","db_country_ai","db_country_ai_tooltip",True,"13452",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"al",11,"al","Albania","db_country_al","db_country_al_tooltip",True,"2876591",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"am",2,"am","Armenia","db_country_am","db_country_am_tooltip",True,"2979900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ao",4,"ao","Angola","db_country_ao","db_country_ao_tooltip",True,"28359634",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"aq",10,"aq","Antarctica","db_country_aq","db_country_aq_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ar",6,"ar","Argentina","db_country_ar","db_country_ar_tooltip",True,"44044811",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"as",10,"as","American Samoa","db_country_as","db_country_as_tooltip",True,"57100",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"at",1,"at","Austria","db_country_at","db_country_at_tooltip",True,"8794267",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"au",10,"au","Australia","db_country_au","db_country_au_tooltip",True,"24653000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"aw",6,"aw","Aruba","db_country_aw","db_country_aw_tooltip",True,"110108",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ax",1,"ax","Aland Islands","db_country_ax","db_country_ax_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"az",2,"az","Azerbaijan","db_country_az","db_country_az_tooltip",True,"9843031",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ba",11,"ba","Bosnia-herzegovina","db_country_ba","db_country_ba_tooltip",True,"3518000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bb",6,"bb","Barbados","db_country_bb","db_country_bb_tooltip",True,"285000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bd",10,"bd","Bangladesh","db_country_bd","db_country_bd_tooltip",True,"163140000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"be",1,"be","Belgium","db_country_be","db_country_be_tooltip",True,"11367186",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bf",4,"bf","Burkina Faso","db_country_bf","db_country_bf_tooltip",True,"19632147",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bg",1,"bg","Bulgaria","db_country_bg","db_country_bg_tooltip",True,"7101859",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bh",10,"bh","Bahrain","db_country_bh","db_country_bh_tooltip",True,"1404900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bi",4,"bi","Burundi","db_country_bi","db_country_bi_tooltip",True,"10400938",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bj",4,"bj","Benin","db_country_bj","db_country_bj_tooltip",True,"10653654",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bl",6,"bl","Saint Barthelemy","db_country_bl","db_country_bl_tooltip",True,"10588063",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bm",6,"bm","Bermuda","db_country_bm","db_country_bm_tooltip",True,"61954",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bn",10,"bn","Brunei Darussalam","db_country_bn","db_country_bn_tooltip",True,"417200",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bo",6,"bo","Bolivia, Plurinational State Of","db_country_bo","db_country_bo_tooltip",True,"11145770",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bq",6,"bq","Bonaire, Sint Eustatius and Saba","db_country_bq","db_country_bq_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"br",6,"br","Brazil","db_country_br","db_country_br_tooltip",True,"207998000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bs",6,"bs","Bahamas","db_country_bs","db_country_bs_tooltip",True,"378040",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bt",10,"bt","Bhutan","db_country_bt","db_country_bt_tooltip",True,"791210",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bv",10,"bv","Bouvet Island","db_country_bv","db_country_bv_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bw",4,"bw","Botswana","db_country_bw","db_country_bw_tooltip",True,"2230905",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"by",2,"by","Belarus","db_country_by","db_country_by_tooltip",True,"9495500",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"bz",6,"bz","Belize","db_country_bz","db_country_bz_tooltip",True,"380010",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ca",16,"ca","Canada","db_country_ca","db_country_ca_tooltip",True,"36659000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cc",10,"cc","Cocos (keeling) Islands","db_country_cc","db_country_cc_tooltip",True,"550",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cd",4,"cd","Congo, The Democratic Republic Of The","db_country_cd","db_country_cd_tooltip",True,"81339988",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cf",4,"cf","Central African Republic","db_country_cf","db_country_cf_tooltip",True,"5099000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cg",4,"cg","Congo","db_country_cg","db_country_cg_tooltip",True,"5261000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ch",12,"ch","Switzerland","db_country_ch","db_country_ch_tooltip",True,"8431702",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ci",4,"ci","Cote D'ivoire","db_country_ci","db_country_ci_tooltip",True,"24295000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ck",10,"ck","Cook Islands","db_country_ck","db_country_ck_tooltip",True,"18100",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cl",6,"cl","Chile","db_country_cl","db_country_cl_tooltip",True,"17373831",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cm",4,"cm","Cameroon","db_country_cm","db_country_cm_tooltip",True,"23248044",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cn",7,"cn","China","db_country_cn","db_country_cn_tooltip",True,"1386370000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"co",6,"co","Colombia","db_country_co","db_country_co_tooltip",True,"49404500",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cr",6,"cr","Costa Rica","db_country_cr","db_country_cr_tooltip",True,"4947490",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cu",6,"cu","Cuba","db_country_cu","db_country_cu_tooltip",True,"11239224",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cv",4,"cv","Cabo Verde","db_country_cv","db_country_cv_tooltip",True,"531239",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cw",6,"cw","Curaçao","db_country_cw","db_country_cw_tooltip",True,"158986",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cx",10,"cx","Christmas Island","db_country_cx","db_country_cx_tooltip",True,"2072",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cy",1,"cy","Cyprus","db_country_cy","db_country_cy_tooltip",True,"848300",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"cz",1,"cz","Czechia","db_country_cz","db_country_cz_tooltip",True,"10588063",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"de",1,"de","Germany","db_country_de","db_country_de_tooltip",True,"82800000",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"dj",4,"dj","Djibouti","db_country_dj","db_country_dj_tooltip",True,"900000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"dk",1,"dk","Denmark","db_country_dk","db_country_dk_tooltip",True,"5760694",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"dm",6,"dm","Dominica","db_country_dm","db_country_dm_tooltip",True,"71293",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"do",6,"do","Dominican Republic","db_country_do","db_country_do_tooltip",True,"10169172",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"dz",3,"dz","Algeria","db_country_dz","db_country_dz_tooltip",True,"41697498",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ec",6,"ec","Ecuador","db_country_ec","db_country_ec_tooltip",True,"16813000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ee",1,"ee","Estonia","db_country_ee","db_country_ee_tooltip",True,"1315635",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"eg",3,"eg","Egypt","db_country_eg","db_country_eg_tooltip",True,"93534200",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"eh",10,"eh","Western Sahara","db_country_eh","db_country_eh_tooltip",True,"552628",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"er",4,"er","Eritrea","db_country_er","db_country_er_tooltip",True,"5069000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"es",1,"es","Spain","db_country_es","db_country_es_tooltip",True,"46528966",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"et",4,"et","Ethiopia","db_country_et","db_country_et_tooltip",True,"94351001",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"fi",1,"fi","Finland","db_country_fi","db_country_fi_tooltip",True,"5508714",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"fj",10,"fj","Fiji","db_country_fj","db_country_fj_tooltip",True,"869458",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"fk",10,"fk","Falkland Islands (Malvinas)","db_country_fk","db_country_fk_tooltip",True,"2563",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"fm",10,"fm","Micronesia, Federated States Of","db_country_fm","db_country_fm_tooltip",True,"102800",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"fo",11,"fo","Faroe Islands","db_country_fo","db_country_fo_tooltip",True,"50250",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"fr",1,"fr","France","db_country_fr","db_country_fr_tooltip",True,"67080000",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ga",4,"ga","Gabon","db_country_ga","db_country_ga_tooltip",True,"1811079",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gb",11,"gb","United Kingdom","db_country_gb","db_country_gb_tooltip",True,"65648100",False,"2017-12-01 12:00:00+01","2021-04-20 22:34:23.773433+02",NULL
+"gd",6,"gd","Grenada","db_country_gd","db_country_gd_tooltip",True,"103328",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ge",2,"ge","Georgia","db_country_ge","db_country_ge_tooltip",True,"3718200",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gf",6,"gf","French Guiana","db_country_gf","db_country_gf_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gg",11,"gg","Guernsey","db_country_gg","db_country_gg_tooltip",True,"62723",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gh",4,"gh","Ghana","db_country_gh","db_country_gh_tooltip",True,"28956587",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gi",13,"gi","Gibraltar","db_country_gi","db_country_gi_tooltip",True,"33140",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gl",13,"gl","Greenland","db_country_gl","db_country_gl_tooltip",True,"56483",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gm",4,"gm","Gambia","db_country_gm","db_country_gm_tooltip",True,"2101000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gn",4,"gn","Guinea","db_country_gn","db_country_gn_tooltip",True,"12717000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gp",10,"gp","Guadeloupe","db_country_gp","db_country_gp_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gq",4,"gq","Equatorial Guinea","db_country_gq","db_country_gq_tooltip",True,"1222442",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gr",1,"gr","Greece","db_country_gr","db_country_gr_tooltip",True,"10783748",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gs",10,"gs","South Georgia And The South Sandwich Islands","db_country_gs","db_country_gs_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gt",6,"gt","Guatemala","db_country_gt","db_country_gt_tooltip",True,"16176133",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gu",10,"gu","Guam","db_country_gu","db_country_gu_tooltip",True,"184200",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gw",4,"gw","Guinea-bissau","db_country_gw","db_country_gw_tooltip",True,"1547777",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"gy",6,"gy","Guyana","db_country_gy","db_country_gy_tooltip",True,"746900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"hk",7,"hk","Hong Kong","db_country_hk","db_country_hk_tooltip",True,"7374900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"hm",10,"hm","Heard Island And Mcdonald Islands","db_country_hm","db_country_hm_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"hn",6,"hn","Honduras","db_country_hn","db_country_hn_tooltip",True,"8866351",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"hr",1,"hr","Croatia","db_country_hr","db_country_hr_tooltip",True,"4154213",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ht",6,"ht","Haiti","db_country_ht","db_country_ht_tooltip",True,"10911819",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"hu",1,"hu","Hungary","db_country_hu","db_country_hu_tooltip",True,"9799000",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"id",7,"id","Indonesia","db_country_id","db_country_id_tooltip",True,"261890900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ie",1,"ie","Ireland","db_country_ie","db_country_ie_tooltip",True,"4757976",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"il",3,"il","Israel","db_country_il","db_country_il_tooltip",True,"8741560",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"im",10,"im","Isle Of Man","db_country_im","db_country_im_tooltip",True,"83314",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"in",9,"in","India","db_country_in","db_country_in_tooltip",True,"1321320000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"io",10,"io","British Indian Ocean Territory","db_country_io","db_country_io_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"iq",10,"iq","Iraq","db_country_iq","db_country_iq_tooltip",True,"38274618",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ir",10,"ir","Iran (islamic Republic Of)","db_country_ir","db_country_ir_tooltip",True,"80434800",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"is",12,"is","Iceland","db_country_is","db_country_is_tooltip",True,"343960",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"it",1,"it","Italy","db_country_it","db_country_it_tooltip",True,"60532325",True,"2017-12-01 12:00:00+01","2020-12-21 11:24:34.703821+01",NULL
+"je",11,"je","Jersey","db_country_je","db_country_je_tooltip",True,"104200",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"jm",6,"jm","Jamaica","db_country_jm","db_country_jm_tooltip",True,"2730894",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"jo",3,"jo","Jordan","db_country_jo","db_country_jo_tooltip",True,"9969040",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"jp",8,"jp","Japan","db_country_jp","db_country_jp_tooltip",True,"126750000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ke",4,"ke","Kenya","db_country_ke","db_country_ke_tooltip",True,"49699862",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"kg",10,"kg","Kyrgyzstan","db_country_kg","db_country_kg_tooltip",True,"6140200",False,"2017-12-01 12:00:00+01","2020-06-02 12:19:47.560296+02",NULL
+"kh",10,"kh","Cambodia","db_country_kh","db_country_kh_tooltip",True,"15848495",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ki",10,"ki","Kiribati","db_country_ki","db_country_ki_tooltip",True,"113400",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"km",4,"km","Comoros","db_country_km","db_country_km_tooltip",True,"806153",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"kn",6,"kn","Saint Kitts And Nevis","db_country_kn","db_country_kn_tooltip",True,"46204",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"kp",10,"kp","Korea, Democratic People's Republic Of","db_country_kp","db_country_kp_tooltip",True,"25491000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"kr",7,"kr","Korea, Republic Of","db_country_kr","db_country_kr_tooltip",True,"51446201",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"kw",10,"kw","Kuwait","db_country_kw","db_country_kw_tooltip",True,"4132415",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ky",10,"ky","Cayman Islands","db_country_ky","db_country_ky_tooltip",True,"60413",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"kz",10,"kz","Kazakhstan","db_country_kz","db_country_kz_tooltip",True,"18054000",False,"2017-12-01 12:00:00+01","2020-06-02 12:19:47.560335+02",NULL
+"la",10,"la","Lao People's Democratic Republic","db_country_la","db_country_la_tooltip",True,"6492400",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lb",3,"lb","Lebanon","db_country_lb","db_country_lb_tooltip",True,"6082000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lc",6,"lc","Saint Lucia","db_country_lc","db_country_lc_tooltip",True,"186000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"li",12,"li","Liechtenstein","db_country_li","db_country_li_tooltip",True,"37815",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lk",10,"lk","Sri Lanka","db_country_lk","db_country_lk_tooltip",True,"21203000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lr",4,"lr","Liberia","db_country_lr","db_country_lr_tooltip",True,"4076530",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ls",4,"ls","Lesotho","db_country_ls","db_country_ls_tooltip",True,"2233000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lt",1,"lt","Lithuania","db_country_lt","db_country_lt_tooltip",True,"2817537",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lu",1,"lu","Luxembourg","db_country_lu","db_country_lu_tooltip",True,"590667",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"lv",1,"lv","Latvia","db_country_lv","db_country_lv_tooltip",True,"1935800",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ly",10,"ly","Libya","db_country_ly","db_country_ly_tooltip",True,"6385000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ma",3,"ma","Morocco","db_country_ma","db_country_ma_tooltip",True,"34434200",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mc",1,"mc","Monaco","db_country_mc","db_country_mc_tooltip",True,"37550",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"md",2,"md","Moldova, Republic Of","db_country_md","db_country_md_tooltip",True,"3550900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"me",11,"me","Montenegro","db_country_me","db_country_me_tooltip",True,"622387",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mf",10,"mf","Saint Martin (French part)","db_country_mf","db_country_mf_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mg",4,"mg","Madagascar","db_country_mg","db_country_mg_tooltip",True,"25571000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mh",10,"mh","Marshall Islands","db_country_mh","db_country_mh_tooltip",True,"54880",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mk",11,"mk","Macedonia, The Former Yugoslav Republic Of","db_country_mk","db_country_mk_tooltip",True,"2073702",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ml",4,"ml","Mali","db_country_ml","db_country_ml_tooltip",True,"18542000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mm",10,"mm","Myanmar","db_country_mm","db_country_mm_tooltip",True,"55371000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mn",10,"mn","Mongolia","db_country_mn","db_country_mn_tooltip",True,"3168875",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mo",10,"mo","Macao","db_country_mo","db_country_mo_tooltip",True,"648300",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mp",10,"mp","Northern Mariana Islands","db_country_mp","db_country_mp_tooltip",True,"56940",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mq",10,"mq","Martinique","db_country_mq","db_country_mq_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mr",4,"mr","Mauritania","db_country_mr","db_country_mr_tooltip",True,"3806719",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ms",10,"ms","Montserrat","db_country_ms","db_country_ms_tooltip",True,"4922",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mt",1,"mt","Malta","db_country_mt","db_country_mt_tooltip",True,"429344",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mu",4,"mu","Mauritius","db_country_mu","db_country_mu_tooltip",True,"1263820",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mv",10,"mv","Maldives","db_country_mv","db_country_mv_tooltip",True,"344023",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mw",4,"mw","Malawi","db_country_mw","db_country_mw_tooltip",True,"18622000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mx",15,"mx","Mexico","db_country_mx","db_country_mx_tooltip",True,"123364426",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"my",7,"my","Malaysia","db_country_my","db_country_my_tooltip",True,"32214500",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"mz",4,"mz","Mozambique","db_country_mz","db_country_mz_tooltip",True,"27128530",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"na",4,"na","Namibia","db_country_na","db_country_na_tooltip",True,"2368747",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"nc",10,"nc","New Caledonia","db_country_nc","db_country_nc_tooltip",True,"268767",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ne",4,"ne","Niger","db_country_ne","db_country_ne_tooltip",True,"21477348",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"nf",10,"nf","Norfolk Island","db_country_nf","db_country_nf_tooltip",True,"2302",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ng",4,"ng","Nigeria","db_country_ng","db_country_ng_tooltip",True,"193500543",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ni",6,"ni","Nicaragua","db_country_ni","db_country_ni_tooltip",True,"6305956",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"nl",1,"nl","Netherlands","db_country_nl","db_country_nl_tooltip",True,"17155000",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"no",12,"no","Norway","db_country_no","db_country_no_tooltip",True,"5277762",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"np",10,"np","Nepal","db_country_np","db_country_np_tooltip",True,"28825709",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"nr",10,"nr","Nauru","db_country_nr","db_country_nr_tooltip",True,"10084",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"nu",10,"nu","Niue","db_country_nu","db_country_nu_tooltip",True,"1470",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"nz",10,"nz","New Zealand","db_country_nz","db_country_nz_tooltip",True,"4816560",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"om",10,"om","Oman","db_country_om","db_country_om_tooltip",True,"4573075",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pa",6,"pa","Panama","db_country_pa","db_country_pa_tooltip",True,"3814672",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pe",6,"pe","Peru","db_country_pe","db_country_pe_tooltip",True,"31826018",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pf",10,"pf","French Polynesia","db_country_pf","db_country_pf_tooltip",True,"271800",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pg",10,"pg","Papua New Guinea","db_country_pg","db_country_pg_tooltip",True,"8151300",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ph",10,"ph","Philippines","db_country_ph","db_country_ph_tooltip",True,"104601000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pk",10,"pk","Pakistan","db_country_pk","db_country_pk_tooltip",True,"208914000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pl",1,"pl","Poland","db_country_pl","db_country_pl_tooltip",True,"38424000",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pm",10,"pm","Saint Pierre And Miquelon","db_country_pm","db_country_pm_tooltip",True,"6286",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pn",10,"pn","Pitcairn","db_country_pn","db_country_pn_tooltip",True,"57",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pr",10,"pr","Puerto Rico","db_country_pr","db_country_pr_tooltip",True,"3411307",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ps",3,"ps","Palestine, State of","db_country_ps","db_country_ps_tooltip",True,"4816503",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pt",1,"pt","Portugal","db_country_pt","db_country_pt_tooltip",True,"10309573",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"pw",10,"pw","Palau","db_country_pw","db_country_pw_tooltip",True,"17950",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"py",6,"py","Paraguay","db_country_py","db_country_py_tooltip",True,"695366",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"qa",10,"qa","Qatar","db_country_qa","db_country_qa_tooltip",True,"2675522",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"re",10,"re","Réunion","db_country_re","db_country_re_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ro",1,"ro","Romania","db_country_ro","db_country_ro_tooltip",True,"19638000",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"rs",11,"rs","Serbia","db_country_rs","db_country_rs_tooltip",True,"7058332",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ru",10,"ru","Russian Federation","db_country_ru","db_country_ru_tooltip",True,"146787329",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"rw",4,"rw","Rwanda","db_country_rw","db_country_rw_tooltip",True,"11809300",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sa",10,"sa","Saudi Arabia","db_country_sa","db_country_sa_tooltip",True,"33671899",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sb",10,"sb","Solomon Islands","db_country_sb","db_country_sb_tooltip",True,"642000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sc",4,"sc","Seychelles","db_country_sc","db_country_sc_tooltip",True,"94205",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sd",4,"sd","Sudan","db_country_sd","db_country_sd_tooltip",True,"40782742",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"se",1,"se","Sweden","db_country_se","db_country_se_tooltip",True,"10076200",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sg",7,"sg","Singapore","db_country_sg","db_country_sg_tooltip",True,"5607300",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sh",10,"sh","Saint Helena, Ascension and Tristan da Cunha","db_country_sh","db_country_sh_tooltip",True,"5633",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"si",1,"si","Slovenia","db_country_si","db_country_si_tooltip",True,"2065895",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sj",10,"sj","Svalbard And Jan Mayen","db_country_sj","db_country_sj_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sk",1,"sk","Slovakia","db_country_sk","db_country_sk_tooltip",True,"5435343",True,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sl",4,"sl","Sierra Leone","db_country_sl","db_country_sl_tooltip",True,"7075641",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sm",1,"sm","San Marino","db_country_sm","db_country_sm_tooltip",True,"33230",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sn",4,"sn","Senegal","db_country_sn","db_country_sn_tooltip",True,"15256346",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"so",4,"so","Somalia","db_country_so","db_country_so_tooltip",True,"14743000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sr",6,"sr","Suriname","db_country_sr","db_country_sr_tooltip",True,"541638",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ss",4,"ss","South Sudan","db_country_ss","db_country_ss_tooltip",True,"12131000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"st",4,"st","Sao Tome And Principe","db_country_st","db_country_st_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sv",6,"sv","El Salvador","db_country_sv","db_country_sv_tooltip",True,"6581940",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sx",6,"sx","Sint Maarten (Dutch part)","db_country_sx","db_country_sx_tooltip",True,"39410",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sy",10,"sy","Syrian Arab Republic","db_country_sy","db_country_sy_tooltip",True,"18270000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"sz",4,"sz","Swaziland","db_country_sz","db_country_sz_tooltip",True,"1132657",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tc",10,"tc","Turks And Caicos Islands","db_country_tc","db_country_tc_tooltip",True,"31458",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"td",4,"td","Chad","db_country_td","db_country_td_tooltip",True,"14900000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tf",10,"tf","French Southern Territories","db_country_tf","db_country_tf_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tg",4,"tg","Togo","db_country_tg","db_country_tg_tooltip",True,"7178000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"th",10,"th","Thailand","db_country_th","db_country_th_tooltip",True,"68414000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tj",10,"tj","Tajikistan","db_country_tj","db_country_tj_tooltip",True,"8742000",False,"2017-12-01 12:00:00+01","2020-06-02 12:19:47.557403+02",NULL
+"tk",10,"tk","Tokelau","db_country_tk","db_country_tk_tooltip",True,"1411",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tl",10,"tl","Timor-leste","db_country_tl","db_country_tl_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tm",10,"tm","Turkmenistan","db_country_tm","db_country_tm_tooltip",True,"5758000",False,"2017-12-01 12:00:00+01","2020-06-02 12:19:47.560239+02",NULL
+"tn",3,"tn","Tunisia","db_country_tn","db_country_tn_tooltip",True,"11304482",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"to",10,"to","Tonga","db_country_to","db_country_to_tooltip",True,"103252",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tr",10,"tr","Turkey","db_country_tr","db_country_tr_tooltip",True,"79814871",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tt",6,"tt","Trinidad And Tobago","db_country_tt","db_country_tt_tooltip",True,"1353895",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tv",10,"tv","Tuvalu","db_country_tv","db_country_tv_tooltip",True,"10640",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tw",7,"tw","Taiwan, Province Of China","db_country_tw","db_country_tw_tooltip",True,"23556169",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"tz",4,"tz","Tanzania, United Republic Of","db_country_tz","db_country_tz_tooltip",True,"57310000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ua",2,"ua","Ukraine","db_country_ua","db_country_ua_tooltip",True,"42467037",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ug",4,"ug","Uganda","db_country_ug","db_country_ug_tooltip",True,"37673800",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"um",5,"um","United States Minor Outlying Islands","db_country_um","db_country_um_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"us",5,"us","United States","db_country_us","db_country_us_tooltip",True,"325766000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"uy",6,"uy","Uruguay","db_country_uy","db_country_uy_tooltip",True,"3493205",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"uz",10,"uz","Uzbekistan","db_country_uz","db_country_uz_tooltip",True,"32345000",False,"2017-12-01 12:00:00+01","2020-06-02 12:19:47.56019+02",NULL
+"va",1,"va","Vatican City State (Holy See)","db_country_va","db_country_va_tooltip",True,"800",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"vc",6,"vc","Saint Vincent And The Grenadines","db_country_vc","db_country_vc_tooltip",True,"109991",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ve",6,"ve","Venezuela, Bolivarian Republic Of","db_country_ve","db_country_ve_tooltip",True,"31431164",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"vg",10,"vg","Virgin Islands (British)","db_country_vg","db_country_vg_tooltip",True,"28514",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"vi",10,"vi","Virgin Islands (U.S.)","db_country_vi","db_country_vi_tooltip",True,"28514",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"vn",7,"vn","Viet Nam","db_country_vn","db_country_vn_tooltip",True,"93700000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"vu",10,"vu","Vanuatu","db_country_vu","db_country_vu_tooltip",True,"277500",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"wf",10,"wf","Wallis And Futuna","db_country_wf","db_country_wf_tooltip",True,"11750",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ws",10,"ws","Samoa","db_country_ws","db_country_ws_tooltip",True,"196315",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"xk",11,"xk","Kosovo","db_country_xk","db_country_xk_tooltip",True,"1836978",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"xz",1,"xz","Global","db_country_xz","db_country_xz_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"ye",10,"ye","Yemen","db_country_ye","db_country_ye_tooltip",True,"28250000",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"yt",10,"yt","Mayotte","db_country_yt","db_country_yt_tooltip",True,"0",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"za",4,"za","South Africa","db_country_za","db_country_za_tooltip",True,"56521900",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"zm",4,"zm","Zambia","db_country_zm","db_country_zm_tooltip",True,"16405229",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"zw",4,"zw","Zimbabwe","db_country_zw","db_country_zw_tooltip",True,"14542235",False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
+"zz",10,"zz","N/A","db_country_zz","db_country_zz_tooltip",True,NULL,False,"2017-12-01 12:00:00+01","2017-12-01 12:00:00+01",NULL
